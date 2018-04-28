@@ -1,7 +1,7 @@
-# ScannyMcScanFace-Python3
+# RedditBAPCS
 A simple bot that gathers sales/deals from buildapcsales subreddit.
 
-[![GitHub release](https://img.shields.io/badge/Build-1.1-brightgreen.svg)](https://github.com/DuckBoss/RedditBAPCS/releases/latest)
+[![GitHub release](https://img.shields.io/badge/Build-1.0-brightgreen.svg)](https://github.com/DuckBoss/RedditBAPCS/releases/latest)
 [![Packagist](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DuckBoss/RedditBAPCS/blob/master/LICENSE)
 
 
