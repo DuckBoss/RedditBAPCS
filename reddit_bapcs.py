@@ -7,10 +7,11 @@ class RedditBAPCS:
     subredditInstance = None
     submissions = None
 
-
+    # Keywords/Categories Lists -
     listing_seek = [""]
     listing_category = ["GPU"]
-
+    
+    # Optional Parameters -
     allow_stream = True
     search_limit = 1024
 
