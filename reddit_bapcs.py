@@ -8,12 +8,12 @@ class RedditBAPCS:
     submissions = None
 
     # Keywords/Categories Lists -
-    listing_seek = [""]
-    listing_category = ["GPU"]
+    listing_seek = ["GTX1080", "I7-7700K"]
+    listing_category = ["GPU", "CPU", "PSU"]
     
     # Optional Parameters -
-    allow_stream = True
-    search_limit = 1024
+    allow_stream = True #DEFAULT True
+    search_limit = 1024 #DEFAULT 1024
 
     def __init__(self):
         print("RedditBAPCS Initialized!")
