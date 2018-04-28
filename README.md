@@ -19,5 +19,5 @@ A simple bot that gathers sales/deals from buildapcsales subreddit.
 You can use the template provided in this repository and fill in the required information as detailed in the usage section of the readme.
 
 ## All Optional Parameters
-- stream (enables real time capturing)
+- allow_stream (enables real time capturing)
 - search_limit (limits the number of submissions that are scanned)
