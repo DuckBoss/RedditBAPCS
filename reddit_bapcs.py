@@ -9,6 +9,7 @@ class RedditBAPCS:
 
     # Keywords/Categories Lists -
     listing_seek = ["GTX1080", "I7-7700K"]
+    # Available Categories Include - GPU,CPU,PSU,RAM,HDD,SSD,MOBO,COOLER,KEYBOARD,MOUSE,MONITOR,CASE,LAPTOP,HEADPHONES,FAN,WEBCAM,ETC...
     listing_category = ["GPU", "CPU", "PSU"]
     
     # Optional Parameters -
